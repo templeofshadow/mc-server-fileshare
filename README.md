@@ -9,5 +9,5 @@ IF YOU ARE WHITELISTED AND DON'T WANT TO BE: Either contact me via the Discord s
 ### Minecraft (via https://github.com/itzg/docker-minecraft-server)
 - Vanilla Minecraft Latest instance
 - Custom 1.21.1 NeoForge Modpack instance (I am not going to publicly distribute this.)
-- Modified ATM9 instance (See branch https://github.com/templeofshadow/mc-server-fileshare/tree/ATM9-Server-Instance)
+- Modified ATM9 instance (YOU ARE IN THIS BRANCH)
 
