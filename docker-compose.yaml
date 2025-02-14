@@ -1,0 +1,62 @@
+services:
+  mc:
+    image: itzg/minecraft-server
+    tty: true
+    stdin_open: true
+    ports:
+      - 50502:50502
+      - 50602:50602/udp
+      - 50702:50702
+      # bluemap webserver
+    environment:
+      MODPACK_PLATFORM: AUTO_CURSEFORGE
+      CF_API_KEY: ${CF_API_KEY}
+      CF_PAGE_URL: https://www.curseforge.com/minecraft/modpacks/all-the-mods-9
+      EULA: true
+      MEMORY: 14G
+      RCON_PASSWORD: [REDACTED]
+      MOTD: temple's modified ATM9 server
+      OPS: TempleOfShadows
+      # projects from modrinth that will be added
+      MODRINTH_PROJECTS: |
+        bluemap:aHbq9KFB
+        simple-voice-chat:tMbKtqzI
+        sound-physics-remastered:O13IgRhY
+        chunky:4FTDk9wv
+        emi:GSmsesll
+        emi-ores:o0r0h2yg
+      SERVER_PORT: 50502
+      WHITELIST_FILE: https://github.com/templeofshadow/mc-server-fileshare/blob/3eec1e791c4cee57f4c6167c6821f8a213e8317e/whitelist.json
+    volumes:
+      # attach the relative directory 'data' to the container's /data path
+      - ./data:/data
+  restore-backup:
+    # Same image as mc, but any base image with bash and tar will work
+    image: itzg/mc-backup
+    user: "1000"
+    restart: no
+    entrypoint: restore-tar-backup
+    volumes:
+      # Must be same mount as mc service, needs to be writable
+      - ./data:/data
+      - /storage/storage-1/mc-backups/atm9/backups:/backups:ro
+  backups:
+    image: itzg/mc-backup
+    user: "1000"
+    depends_on:
+      mc:
+        condition: service_healthy
+    environment:
+      BACKUP_INTERVAL: 12h
+      PRUNE_BACKUPS_DAYS: 5
+      RCON_HOST: mc
+      # since this service waits for mc to be healthy, no initial delay is needed
+      INITIAL_DELAY: 0
+      # As an example, to backup only the world data:
+      # INCLUDES: world,world_nether,world_the_end
+    volumes:
+      - ./data:/data:ro
+      - /storage/storage-1/mc-backups/atm9/backups:/backups
+networks: {}
+volumes:
+  data: {}
