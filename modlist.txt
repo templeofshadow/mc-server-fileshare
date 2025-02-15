@@ -1,0 +1,141 @@
+[AppleSkin] appleskin 3.0.5+mc1.21
+[Applied Energistics 2] ae2 19.1.2-beta 
+[AE2 QoL Recipes] ae2qolrecipes 1.2.0
+[Architectury] architectury 13.0.8
+[Artifacts] artifacts 12.0.5
+[Athena] athena 4.0.1
+[AzureLib] azurelib 2.3.29-alpha
+[Bad Packets] badpackets 0.8.1
+[Balm] balm 21.0.22
+[Better F3] betterf3 11.0.3
+[Big Reactors] bigreactors 1.21.1-2.4.9
+[Biomes O' Plenty] biomesoplenty 21.1.0.7
+[Oh The Biomes We've Gone] biomeswevegone 2.3.0
+[Chipped] chipped 4.0.2
+[Chunky] chunky 1.4.16 # NOTE: Not required on client.
+[Cloth Config] cloth_config 15.0.140
+[Cobweb] cobweb 1.3.0
+[CC:Tweaked] computercraft 1.114.2
+[Controlling] controlling 19.0.3
+[Sinytra Connector] connector 2.0.0-beta.5+1.21.1-full
+[Cooking for Blockheads] cookingforblockheads 21.1.3
+[CorgiLib] corgilib 5.0.0.3
+[Crated Delight] cratedelight 24.11.22-1.21-neoforge
+[Cristel Lib] cristellib 1.2.8
+[Choice Theorem's Overhauled Village] ctov 3.5.4
+[Cucumber Library] cucumber 8.0.8
+[Curios API] curios 9.0.15+1.21.1
+[Distant Horizons] distanthorizons 2.2.1-a
+[Dynamic FPS] dynamic_fps 3.7.7
+[ElevatorMod] elevatorid 1.21.1-1.11.3
+[EMI] emi 1.1.18+1.21.1+neoforge
+[EMI Enchanting] emi_enchanting 0.1.2+1.21+neoforge
+[EMI Loot] emi_loot 0.7.4+1.21+neoforge
+[EMI Ores] emi_ores 1.0+1.21.1+neoforge
+[EMI professions] emiprofessions 1.0.2
+[Ender's Delight] endersdelight 1.0.1
+[Engineered Compatibility] engineeredcompatibility 4.0.1
+[Entity Model Features] entity_model_features 2.4.1
+[Entity Texture Features] entity_texture_features 6.2.9
+[Entity Culling] entityculling 1.7.2
+[William Wythers' Expanded Ecosphere] expanded_ecosphere 3.4.1.1
+[Explorify] explorify 1.6.2
+[Extended Industrialization] extended_industrialization 1.10.2-beta-1.21.1
+[Extreme Reactors] bigreactors 1.21.1-2.4.9
+[ExtraDelight] extradelight 2.2.1
+[Forgified Fabric API] fabric_api 0.107.0+2.0.22+1.21.1
+[FallingTree] fallingtree 1.21.1.2
+[Farmer's Delight] farmersdelight 1.2.6
+[Feature Recycler] featurerecycler 2.0.0
+[Ferrite Core] ferritecore 7.0.2
+[Forgematica] forgematica 0.1.14-mc1.21.1
+[Formations] formations 1.0.3
+[Formations Nether] formationsnether 1.0.5
+[Formations Overworld] formationsoverworld 1.0.4
+[Fumo] fumo 16.0.0
+[Fusion] fusion 1.1.1+a
+[Fzzy Config] fzzy_config 0.5.9+1.21+neoforge
+[GeckoLib 4] geckolib 4.7.3
+[GlitchCore] glitchcore 2.1.0.0
+[Handcrafted] handcrafted 4.0.2
+[Harvest with ease] harvest_with_ease 9.4.0
+[ImmediatelyFast] immediatelyfast 1.3.3+1.21.1
+[Immersive Engineering] immersiveengineering 12.0.0-182
+[Industrialization Overdrive] industrialization_overdrive 1.4.0+1.21.1
+[Inventory Essentials] inventoryessentials 21.1.1
+[Iris Shaders] iris 1.8.1+mc1.21.1
+[Iron's Spells 'n Spellbooks] irons_spellbooks 1.21-3.8.4
+[Jade] jade 15.9.2+neoforge
+[Jade Addons] jadeaddons 0.0NONE
+[JamLib] jamlib 1.2.2-build.2+1.21.1
+[Just Enough Items] jei 19.21.0.247
+[Just Enough Breeding] justenoughbreeding 1.5.0
+[Just Enough Professions (JEP)] justenoughprofessions 4.0.3
+[Kotlin for Forge] kotlinforforge 5.7.0
+[L2Library] l2library 3.0.3+2
+[Lithium] lithium 0.14.3-snapshot+mc1.21.1-build.92
+[Lithostiched] lithostitched 1.3.10
+[Lootr] lootr 1.21-1.10.34.86
+[MaFgLib] mafglib 0.2.2-mc1.21.1
+[Magnum Torch] magnumtorch 21.1.0
+[Mahou Tsukai] mahoutsukai 1.21.0-v1.35.18
+[MEGA Cells] megacells 4.3.0
+[Moog's End Structures] mes 1.3.5-1.21
+[Moog's Nether Structures] mns 1.0.7-1.21
+[Model Gap Fix] modelfix 1.21-1.10
+[Modern Industrialization] modern_industrialization 2.2.30
+[ModernFix] modernfix 5.20.0+mc1.21.1
+[Modonomicon] modonomicon 1.111.1
+[Moonlight Lib] moonlight 1.21-2.17.12
+[More Culling] moreculling 1.0.3
+[More Delight] moredelight 24.09.27-1.21-neoforge
+[Farmer's Cutting: Oh The Biomes We've Gone] mr_farmers_cuttingohthebiomeswevegone 1.21.1-2.0-neoforge
+[Moog's Voyager Structures] mvs 4.2.6-1.21
+[Neat] neat 1.21-40-NEOFORGE
+[Noisium] noisium 2.3.0+mc1.21-1.21.1
+[Now Playing] now_playing 1.5.11+1.21
+[ObsidianUI] obsidianui 0.2.9+mc1.21.1
+[OctoLib] octolib 0.5.0.1
+[Oh The Trees You'll Grow] ohthetreesyoullgrow 5.0.6
+[Open Parties and Claims] openpartiesandclaims 0.23.6
+[oωo (owo-lib)] owo 0.12.15-beta.12+1.21
+[Patchouli] patchouli 1.21-87-NEOFORGE
+[Player Animator] playeranimator 2.0.1+1.21.1
+[Polymorph] polymorph 1.0.7+1.21.1
+[Puzzles Lib] puzzleslib 21.1.24
+[Relics] relics 0.10.1.6
+[Resourceful Lib] resourcefullib 3.0.11
+[Right Click Harvest] rightclickharvest 4.4.4+1.21.1
+[Samurai Dynasty] samurai_dynasty 0.1.4-1.21.1
+[Scribble] scribble 1.4.4
+[Seamless Loading Screen] seamless_loading_screen 2.2.1+1.21
+[Simple Clouds] simpleclouds 0.6.3+1.21
+[Simple Magnets] simplemagnets 1.1.12+b
+[SmartBrainLib] smartbrainlib 1.16.2
+[Sodium] sodium 0.6.5+mc1.21.1
+[Sodium Extra] sodiumextra 0.6.0+mc1.21.1
+[Sound Physics Remastered] sound_physics_remastered 1.21.1-1.4.8
+[Storage Drawers] storagedrawers 13.8.5
+[SuperMartijn642's Config Library] supermartijn642configlib 1.1.8
+[SuperMartijn642's Core Lib] supermartijn642corelib 1.1.18
+[Supplementaries] supplementaries 1.21-3.0.28-beta
+[Supplementaries Squared] suppsquared 1.21-1.2.3
+[Tectonic] tectonic 2.4.2
+[TerraBlender] terrablender 4.1.0.5
+[Terralith] terralith 2.5.7
+[Tesseract API] tesseract_api 1.6.2-beta-1.21.1
+[Traveler's Backpack] travelersbackpack 10.1.7
+[Tweakerge] tweakerge 0.1.9-mc1.21.1
+[TxniLib] txnilib 1.0.21
+[Vegan Delight] vegandelight 1.4.0
+[Simple Voice Chat] voicechat 1.21.1-2.5.27
+[Wabi-Sabi Structures] wabi_sabi_structures 3.0.2
+[Waystones] waystones 21.1.5
+[William Wythers' Overhauled Overworld] wwoo 2.3.4
+[Xaero's Minimap] xaerominimap 24.7.1
+[Xaero's World Map] xaeroworldmap 1.39.2
+[YetAnotherConfigLib] yet_another_config_lib_v3 3.6.2+1.21-neoforge
+[Youkai's Homecoming] youkaishomecoming 3.0.2
+[Yuushya] yuushya 2.2.2
+[Zero CORE 2] zerocore 1.21.1-2.4.9
+[Zume] zume 1.1.4
