@@ -25,9 +25,13 @@ To get the modpack either use the mod list mentioned below or use the Modrinth a
 4. To connect to the server, refer to the IP in this channel's description, or the IP at #lists-of-servers .
 
 FYI's:
+
 i. This modpack has a voice chat mod called "Simple Voice Chat", so try not to use the modded-1 voice channel if you can. I can't really stop you though.
+
 ii. This modpack requires ~6-8gb of memory allocated to the game in order to properly function. Keep this in mind while configuring Modrinth (or otherwise making your modpack).
+
 iii. This modpack has Distant Horizons installed in the client instance, but not in the server, which means that the DH LODs will only generate and render for chunks you have visited (that is-chunks that have entered your vanilla render distance). For now, there isn't a way around this for this server instance, but the DH developers have an open issue (https://gitlab.com/distant-horizons-team/distant-horizons/-/issues/19) whose last comment refers to the feature being enabled in the testing branches, so I personally think that the feature will be added in the not-so-distant future. For us right now, though, we just need to deal with it. I'll remove this FYI section when I see the update pushed to stable.
+
 **PSA**: PolyMC now supports .mrpack import.
 
 ---
