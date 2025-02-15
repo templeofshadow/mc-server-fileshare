@@ -20,9 +20,11 @@ To get the modpack either use the mod list mentioned below or use the Modrinth a
 **Modrinth App Instructions:**
 1. Go to https://modrinth.com/app and take the necessary steps for your system to install the app. *(if you wish to use an existing instance manager, skip this step)*
 2. Open the file attached to this message with the Modrinth app. *(if using another instance manager, use the managers "import from file" function)*
-*2.1. Do not click "Update all" in the Modrinth instance, as of writing this message [2025-01-08] the mod Supplementaries has a fatal bug in its latest posted version on Modrinth.*
-3. Click "Play" and then play the game as normal.
-4. To connect to the server, refer to the IP in this channel's description, or the IP at #lists-of-servers .
+
+   *2.1. Do not click "Update all" in the Modrinth instance, as of writing this message [2025-01-08] the mod Supplementaries has a fatal bug in its latest posted version on Modrinth.*
+
+4. Click "Play" and then play the game as normal.
+5. To connect to the server, refer to the IP in this channel's description, or the IP at #lists-of-servers .
 
 FYI's:
 
