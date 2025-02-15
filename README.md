@@ -32,7 +32,7 @@ ii. This modpack requires ~6-8gb of memory allocated to the game in order to pro
 
 iii. This modpack has Distant Horizons installed in the client instance, but not in the server, which means that the DH LODs will only generate and render for chunks you have visited (that is-chunks that have entered your vanilla render distance). For now, there isn't a way around this for this server instance, but the DH developers have an open issue (https://gitlab.com/distant-horizons-team/distant-horizons/-/issues/19) whose last comment refers to the feature being enabled in the testing branches, so I personally think that the feature will be added in the not-so-distant future. For us right now, though, we just need to deal with it. I'll remove this FYI section when I see the update pushed to stable.
 
-**PSA**: PolyMC now supports .mrpack import.
+**PSA**: PolyMC now supports .mrpack import. See https://github.com/PolyMC/PolyMC/pull/1659
 
 ---
 
