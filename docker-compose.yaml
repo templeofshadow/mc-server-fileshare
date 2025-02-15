@@ -22,7 +22,7 @@ services:
       MODRINTH_EXCLUDE_FILES: | 
         distanthorizons 
       SERVER_PORT: 50501
-      WHITELIST_FILE: https://github.com/templeofshadow/mc-server-fileshare/raw/refs/heads/main/modrinth%20modpack%20backup/whitelist.json
+      WHITELIST_FILE: https://github.com/templeofshadow/mc-server-fileshare/blob/5a02481777b0162f811ddb9bb4552ca065f59e32/whitelist.json
     volumes:
       # attach the relative directory 'data' to the container's /data path
       - ./data:/data
