@@ -8,6 +8,6 @@ IF YOU ARE WHITELISTED AND DON'T WANT TO BE: Either contact me via the Discord s
 ## Pertinent servers:
 ### Minecraft (via https://github.com/itzg/docker-minecraft-server)
 - Vanilla Minecraft Latest instance
-- Custom 1.21.1 NeoForge Modpack instance (I am not going to publicly distribute this.)
+- Custom 1.21.1 NeoForge Modpack instance (I am not going to publicly distribute this.) (See branch https://github.com/templeofshadow/mc-server-fileshare/tree/Custom-1.21.1-Server-Instance)
 - Modified ATM9 instance (See branch https://github.com/templeofshadow/mc-server-fileshare/tree/ATM9-Server-Instance)
 
