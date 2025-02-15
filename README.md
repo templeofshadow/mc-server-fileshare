@@ -23,6 +23,8 @@ To get the modpack either use the mod list mentioned below or use the Modrinth a
 
    *2.1. Do not click "Update all" in the Modrinth instance, as of writing this message [2025-01-08] the mod Supplementaries has a fatal bug in its latest posted version on Modrinth.*
 
+   *2.2. [2025-2-15] The issue with Supplementaries should be fixed but it is still not advisable to change anything within the pack in order to maintain parity with the server.*
+
 4. Click "Play" and then play the game as normal.
 5. To connect to the server, refer to the IP in this channel's description, or the IP at #lists-of-servers .
 
