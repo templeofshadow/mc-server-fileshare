@@ -2,7 +2,7 @@
 name: Whitelist Change Request
 about: Request changes to Whitelist Status
 title: "[WHITELIST]"
-labels: ''
+labels: whitelist
 assignees: templeofshadow
 
 ---
