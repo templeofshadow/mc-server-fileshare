@@ -18,9 +18,7 @@ services:
       OPS: TempleOfShadows
       MODRINTH_PROJECTS: |
         bluemap:Hp4CqBgz
-      # Distant Horizons has a server file on the way.
-      MODRINTH_EXCLUDE_FILES: | 
-        distanthorizons 
+        distanthorizons:vA2Ju8Tu
       SERVER_PORT: 50501
       WHITELIST_FILE: https://github.com/templeofshadow/mc-server-fileshare/blob/5a02481777b0162f811ddb9bb4552ca065f59e32/whitelist.json
     volumes:
