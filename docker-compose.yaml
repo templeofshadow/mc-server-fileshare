@@ -25,6 +25,7 @@ services:
         chunky:4FTDk9wv
         emi:GSmsesll
         emi-ores:o0r0h2yg
+        distanthorizons:nVT5sVYS
       SERVER_PORT: 50502
       WHITELIST_FILE: https://github.com/templeofshadow/mc-server-fileshare/blob/3eec1e791c4cee57f4c6167c6821f8a213e8317e/whitelist.json
     volumes:
