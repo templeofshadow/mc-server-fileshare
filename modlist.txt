@@ -25,7 +25,7 @@
 [Choice Theorem's Overhauled Village] ctov 3.5.4
 [Cucumber Library] cucumber 8.0.8
 [Curios API] curios 9.0.15+1.21.1
-[Distant Horizons] distanthorizons 2.2.1-a
+[Distant Horizons] distanthorizons 2.3.0-b
 [Dynamic FPS] dynamic_fps 3.7.7
 [ElevatorMod] elevatorid 1.21.1-1.11.3
 [EMI] emi 1.1.18+1.21.1+neoforge
