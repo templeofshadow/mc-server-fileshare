@@ -1,4 +1,6 @@
-Initial Version Changes/Additions from ATM9
+# 2025-02-17
+
+## Initial Version Changes/Additions from ATM9
 
 ### Additions
 - BlueMap version 5.3-forge-1.20
@@ -16,3 +18,11 @@ Initial Version Changes/Additions from ATM9
 ## PSAs
 1. I have experienced some issues with using EMI in ATM9. I have created an issue in the EMI repository to try and diagnose the issue. See: https://github.com/emilyploszaj/emi/issues/860. When this issue is fixed, I will either update the pack or update this changelog.
 2. Distant Horizons does not currently have server-side support, however it is on the way (see https://gitlab.com/distant-horizons-team/distant-horizons/-/issues/19). When this is implemented I will update the pack.
+
+# 2025-03-12
+
+## Changes as of Mar 12, 2025
+
+### Additions
+
+- Added Distant Horizons 2.3.0-b to Server
