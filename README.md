@@ -22,6 +22,7 @@ Technically, it isn't required to install these, but it is recommended.
 For the added mods, go to these links and download the file:
 - https://modrinth.com/plugin/simple-voice-chat/version/forge-1.20.1-2.5.26
 - https://modrinth.com/mod/sound-physics-remastered/version/forge-1.20.1-1.4.8
+- https://modrinth.com/mod/distanthorizons/version/2.3.0-b-1.20.1
 
 You can install the pack several ways. The most mainstream option is via the **Curseforge launcher**, which is fairly straightforward. You may also use a third-party instance manager such as **PolyMC** or **ATLauncher**. Alternatively, the modlist is public on the Curseforge page so you could also manually install the mods into a custom forge instance if you so wish (although I don't believe any of us are that masochistic).
 
@@ -36,6 +37,7 @@ For clarity, server mods added by me:
 - Sound Physics Remastered
 - Chunky (this one is just for servers, don't install it)
 - EMI Ores (only install if you have EMI on client)
+- Distant Horizons
 
 **PSA: EMI currently doesn't display some recipes. I made an issue (see https://github.com/emilyploszaj/emi/issues/860), so we'll see if it's an actual problem or not. Will update this upon fix.**
 
